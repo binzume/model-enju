@@ -1,7 +1,7 @@
-MMDモデル練習用
+3Dモデル色々
 ================
 
-人物をちゃんと作るのはほぼ初めてなので試行錯誤しながら．
+モデリング練習用です．人物をちゃんと作るのはほぼ初めてなので試行錯誤しながら．
 
 MMDモデル
 ----------
@@ -18,9 +18,12 @@ MMDモデル
 ---------
 
 ニコニ立体：
-http://3d.nicovideo.jp/works/td9914
-http://3d.nicovideo.jp/works/td11011
+
+- http://3d.nicovideo.jp/works/td11358
+- http://3d.nicovideo.jp/works/td9914
+- http://3d.nicovideo.jp/works/td11011
 
 リポジトリ： 
-https://github.com/binzume/model-enju
+
+- https://github.com/binzume/model-enju
 
