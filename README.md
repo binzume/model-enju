@@ -7,9 +7,13 @@
 
 ![WIP3](images/wip150815.png)
 
+ニコニ立体：[td22327](http://3d.nicovideo.jp/works/td22327)
+
 ### 2014-07-20
 
 ![WIP1](images/wip140720.png)
+
+ニコニ立体：[td9914](http://3d.nicovideo.jp/works/td9914) [td11358](http://3d.nicovideo.jp/works/td11358)
 
 
 MMDモデル
@@ -26,11 +30,6 @@ MMDモデル
 リンク
 ---------
 
-ニコニ立体：
-
-- http://3d.nicovideo.jp/works/td11358
-- http://3d.nicovideo.jp/works/td9914
-- http://3d.nicovideo.jp/works/td11011
 
 リポジトリ： 
 
