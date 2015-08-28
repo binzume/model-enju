@@ -375,7 +375,7 @@
                 <W oi="41" vi="4" w="100"/>
                 <W oi="41" vi="7" w="100"/>
                 <W oi="41" vi="10" w="100"/>
-                <W oi="41" vi="11" w="98.934616"/>
+                <W oi="41" vi="11" w="98.934624"/>
                 <W oi="41" vi="17" w="100"/>
                 <W oi="41" vi="18" w="100"/>
                 <W oi="41" vi="25" w="100"/>
@@ -1388,6 +1388,9 @@
                 <W oi="41" vi="136" w="100"/>
                 <W oi="41" vi="137" w="100"/>
                 <W oi="41" vi="138" w="100"/>
+                <W oi="41" vi="139" w="100"/>
+                <W oi="41" vi="140" w="100"/>
+                <W oi="41" vi="141" w="100"/>
             </Bone>
             <Bone id="68" rtX="0.0000000" rtY="168.24333" rtZ="0.0000000" tpX="0.0000000" tpY="212.45740" tpZ="7.0819125" rotB="0.0000000" rotH="0.0000000" rotP="-0.0000000" mvX="0.0000000" mvY="0.0000000" mvZ="0.0000000" scX="1.0000000" scY="1.0000000" scZ="1.0000000" wMvX="0.0000000" wMvY="0.0000000" wMvZ="0.0000000" wRotB="0.0000000" wRotH="0.0000000" wRotP="-0.0000000" wScRootX="11.194409" wScRootY="11.194409" wScRootZ="11.194409" wScTipX="11.194409" wScTipY="11.194409" wScTipZ="11.194409" wStRoot="50.000000" wStTip="50.000000" wWid="44.777637" maxAngB="90.000000" maxAngH="180.00000" maxAngP="180.00000" minAngB="-90.000000" minAngH="-180.00000" minAngP="-180.00000" IKChain="0" isIK="0" IKParent="0" IKParentIsIK="0" isDummy="1" isLock="0" isHide="0" isMirror="0" isMovable="1" name="eyes dummy" tip_name="eyes dummy_end" ik_name="eyes dummy_IK" ik_tip_name="eyes dummy_IK_end" tip_id="69" upVec="0.0000000" col="ffc31737" group="0">
                 <P id="4"/>
@@ -1441,7 +1444,7 @@
                 <C id="77"/>
                 <L m="100.00000" s="100.00000" r="100.00000"/>
                 <W oi="13" vi="21" w="100"/>
-                <W oi="13" vi="27" w="97.537506"/>
+                <W oi="13" vi="27" w="97.537514"/>
                 <W oi="13" vi="28" w="100"/>
                 <W oi="13" vi="29" w="82.702980"/>
                 <W oi="13" vi="30" w="76.566132"/>
@@ -1528,4 +1531,12 @@
         <Poses isExist="0"/>
         <Poses isExist="0"/>
     </Plugin.56A31D20.71F282AB>
+    <Plugin.56A31D20.C452C6DB name="モーフ">
+        <MorphSet>
+            <PmdMode/>
+            <TargetList base="head|main">
+                <Target name="あ" param="0" type="リップ"/>
+            </TargetList>
+        </MorphSet>
+    </Plugin.56A31D20.C452C6DB>
 </MetasequoiaDocument>
