@@ -4,16 +4,16 @@ Format Text Ver 1.1
 IncludeXml "milinda.mqx"
 
 Scene {
-	pos 15.339172 55.663612 646.51495
+	pos 4.3185911 2.574791 179.33829
 	lookat -1.1971114 185.54016 10.819118
-	head -289.7278
-	pich 0.1992
-	bank -0.0500
+	head -289.1276
+	pich 0.1792
+	bank -0.0400
 	ortho 0
-	zoom2 11.6003
+	zoom2 41.8192
 	amb 0.250 0.250 0.250
-	frontclip 96.977226
-	backclip 19395.459
+	frontclip 26.90074
+	backclip 5380.1519
 	dirlights 1 {
 		light {
 			dir 0.408 0.408 0.816
@@ -26,7 +26,7 @@ Material 16 {
 	"body" shader(3) uid(2) col(0.988 0.945 1.000 1.000) dif(0.550) amb(0.460) emi(0.613) spc(0.070) power(2.00) tex("milinda_body.png")
 	"hair" shader(3) dbls(1) uid(3) col(1.000 0.878 0.565 1.000) dif(0.637) amb(0.000) emi(0.488) spc(0.050) power(0.00)
 	"mayu" shader(3) uid(4) col(0.149 0.165 0.369 0.887) dif(1.000) amb(0.000) emi(0.200) spc(0.000) power(5.00)
-	"eye" shader(3) uid(5) col(1.000 1.000 1.000 1.000) dif(1.000) amb(0.000) emi(0.225) spc(0.000) power(5.00) tex(".\satsuki_eye.png")
+	"eye" shader(3) uid(5) col(1.000 1.000 1.000 1.000) dif(1.000) amb(0.000) emi(0.225) spc(0.000) power(5.00) tex(".\milinda_eye.png")
 	"eye_base" shader(3) uid(6) col(1.000 1.000 1.000 1.000) dif(0.512) amb(0.000) emi(0.688) spc(0.000) power(5.00)
 	"kuchi" shader(3) uid(7) col(0.502 0.110 0.149 1.000) dif(0.800) amb(0.131) emi(0.000) spc(0.000) power(5.00) amb_col(0.431 0.000 0.020)
 	"cloth_w" shader(3) dbls(1) uid(8) col(1.000 1.000 1.000 0.950) dif(0.800) amb(0.000) emi(0.500) spc(0.025) power(0.00)
