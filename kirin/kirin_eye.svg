@@ -45,7 +45,7 @@
        x2="250.57819"
        y2="437.51401"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1507942,0,0,1.0280268,-71.955213,499.04993)" />
+       gradientTransform="matrix(1.1507942,0,0,1.0280268,-74.143659,499.04993)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -55,7 +55,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6779975"
-     inkscape:cx="184.36515"
+     inkscape:cx="-56.99397"
      inkscape:cy="290.34776"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -87,7 +87,7 @@
        id="path2985"
        inkscape:transform-center-x="18.599646"
        inkscape:transform-center-y="12.461577"
-       cx="258.18845"
+       cx="256"
        cy="798.49524"
        rx="146.47218"
        ry="149.01956" />
@@ -100,12 +100,12 @@
        cx="-27.291344"
        transform="matrix(0.93980726,-0.341705,0.34233549,0.93957778,0,0)" />
     <ellipse
-       style="fill:#4d2b97;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#3a2a5f;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2987"
-       ry="66.211555"
-       rx="58.293476"
-       cy="801.77307"
-       cx="260.21298" />
+       ry="62.039917"
+       rx="54.620712"
+       cy="801.60144"
+       cx="254.32724" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path2987-1"
