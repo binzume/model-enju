@@ -198,7 +198,7 @@
                 <W oi="97" vi="55" w="100"/>
                 <W oi="97" vi="56" w="100"/>
                 <W oi="97" vi="57" w="100"/>
-                <W oi="99" vi="1" w="90.507973"/>
+                <W oi="99" vi="1" w="90.507965"/>
                 <W oi="99" vi="2" w="87.155769"/>
                 <W oi="99" vi="11" w="100"/>
                 <W oi="99" vi="15" w="100"/>
@@ -1705,7 +1705,7 @@
                 <W oi="93" vi="46" w="100"/>
                 <W oi="93" vi="47" w="100"/>
             </Bone>
-            <Bone id="80" rtX="0.17458820" rtY="119.89211" rtZ="-21.827839" tpX="-0.37304926" tpY="84.743706" tpZ="-25.793331" rotB="-0.0000000" rotH="-0.00000342" rotP="-0.0000000" mvX="0.0000000" mvY="0.0000000" mvZ="0.0000000" scX="1.0000000" scY="1.0000000" scZ="1.0000000" wMvX="0.0000000" wMvY="0.0000000" wMvZ="0.0000000" wRotB="-2.5129480" wRotH="-14.238430" wRotP="-1.2325866" wScRootX="23.856901" wScRootY="6.7883825" wScRootZ="6.7883825" wScTipX="23.856901" wScTipY="6.7883825" wScTipZ="6.7883825" wStRoot="50.000000" wStTip="50.000000" wWid="27.153530" maxAngB="180.00000" maxAngH="180.00000" maxAngP="180.00000" minAngB="-180.00000" minAngH="-180.00000" minAngP="-180.00000" IKChain="0" isIK="0" IKParent="0" IKParentIsIK="0" isDummy="0" isLock="0" isHide="0" isMirror="0" isMovable="1" name="hair_back2" tip_name="hair_back end" ik_name="bone80_IK" ik_tip_name="bone80_IK_end" tip_id="0" upVec="0.0000000" col="ff711cb9" group="0">
+            <Bone id="80" rtX="0.17458820" rtY="119.89211" rtZ="-21.827839" tpX="-0.37304926" tpY="84.743706" tpZ="-25.793331" rotB="-0.0000000" rotH="-0.00000342" rotP="-0.0000000" mvX="0.0000000" mvY="0.0000000" mvZ="0.0000000" scX="1.0000000" scY="1.0000000" scZ="1.0000000" wMvX="0.0000000" wMvY="0.0000000" wMvZ="0.0000000" wRotB="-2.5128701" wRotH="-14.238430" wRotP="-1.2325866" wScRootX="23.856901" wScRootY="6.7883825" wScRootZ="6.7883825" wScTipX="23.856901" wScTipY="6.7883825" wScTipZ="6.7883825" wStRoot="50.000000" wStTip="50.000000" wWid="27.153530" maxAngB="180.00000" maxAngH="180.00000" maxAngP="180.00000" minAngB="-180.00000" minAngH="-180.00000" minAngP="-180.00000" IKChain="0" isIK="0" IKParent="0" IKParentIsIK="0" isDummy="0" isLock="0" isHide="0" isMirror="0" isMovable="1" name="hair_back2" tip_name="hair_back end" ik_name="bone80_IK" ik_tip_name="bone80_IK_end" tip_id="0" upVec="0.0000000" col="ff711cb9" group="0">
                 <P id="79"/>
                 <L m="100.00000" s="100.00000" r="100.00000"/>
                 <W oi="93" vi="16" w="100"/>
