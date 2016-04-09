@@ -24,13 +24,13 @@
     <linearGradient
        id="linearGradient3759">
       <stop
-         style="stop-color:#532e6d;stop-opacity:1"
+         style="stop-color:#473a61;stop-opacity:1"
          offset="0"
          id="stop3761" />
       <stop
          id="stop4142"
          offset="0.63937628"
-         style="stop-color:#9e87d2;stop-opacity:1" />
+         style="stop-color:#8f84cc;stop-opacity:1" />
       <stop
          style="stop-color:#cda4da;stop-opacity:1"
          offset="1"
@@ -55,8 +55,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6779975"
-     inkscape:cx="-56.99397"
-     inkscape:cy="290.34776"
+     inkscape:cx="57.726106"
+     inkscape:cy="264.72198"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -100,19 +100,19 @@
        cx="-27.291344"
        transform="matrix(0.93980726,-0.341705,0.34233549,0.93957778,0,0)" />
     <ellipse
-       style="fill:#3a2a5f;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#312058;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2987"
-       ry="62.039917"
-       rx="54.620712"
-       cy="801.60144"
-       cx="254.32724" />
+       ry="51.01487"
+       rx="45.64278"
+       cy="798.32373"
+       cx="256.07639" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path2987-1"
        cx="166.41632"
-       cy="725.74213"
+       cy="734.38336"
        rx="47.736526"
-       ry="32.41095" />
+       ry="41.0522" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path2987-1-7"
