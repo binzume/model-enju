@@ -1,0 +1,17 @@
+
+1. freez all obj.
+
+2. set bone weight:
+body
+side
+sht
+skirt
+skirt-side
+kutsu
+
+3. set_pmd_shader.py
+
+4. save pmd.
+
+5. add kirin_mmd.mqx_joint.csv (pmx editor)
+
