@@ -4,16 +4,16 @@ Format Text Ver 1.1
 IncludeXml "kirin.mqx"
 
 Scene {
-	pos -0.82794207 3.7140276 77.852638
+	pos -1.3593793 4.8543882 405.89389
 	lookat -3.5773902 129.17142 0.77163243
-	head -188.3507
-	pich -0.0008
+	head -194.6505
+	pich 0.0292
 	bank 0.0300
 	ortho 0
-	zoom2 96.3315
+	zoom2 18.4769
 	amb 0.250 0.250 0.250
-	frontclip 11.677895
-	backclip 2335.5806
+	frontclip 60.884079
+	backclip 12176.823
 	dirlights 1 {
 		light {
 			dir 0.408 0.408 0.816
@@ -22,7 +22,7 @@ Scene {
 	}
 }
 Material 15 {
-	"face" shader(3) uid(1) col(1.000 0.784 0.706 1.000) dif(0.680) amb(0.460) emi(0.490) spc(0.070) power(2.00)
+	"face" shader(3) uid(1) col(1.000 0.784 0.706 1.000) dif(0.712) amb(0.637) emi(0.490) spc(0.070) power(2.00)
 	"body" shader(3) uid(2) col(1.000 0.973 0.961 1.000) dif(1.000) amb(0.460) emi(0.500) spc(0.070) power(2.00) tex(".\body.png")
 	"hair" shader(3) dbls(1) uid(3) col(0.820 0.812 1.000 0.990) dif(0.637) amb(0.375) emi(0.488) spc(0.050) power(2.50)
 	"mayu" shader(3) uid(4) col(0.149 0.165 0.369 0.887) dif(1.000) amb(0.000) emi(0.200) spc(0.000) power(5.00)
@@ -31,7 +31,7 @@ Material 15 {
 	"kuchi" shader(3) uid(7) col(0.502 0.110 0.149 1.000) dif(0.800) amb(0.131) emi(0.000) spc(0.000) power(5.00) amb_col(0.431 0.000 0.020)
 	"cloth_w" shader(3) dbls(1) uid(8) col(1.000 1.000 1.000 1.000) dif(0.800) amb(0.000) emi(0.500) spc(0.025) power(0.00)
 	"cloth_k" shader(3) dbls(1) uid(9) col(0.110 0.110 0.110 0.990) dif(0.800) amb(0.000) emi(0.500) spc(0.025) power(0.00)
-	"cloth_p" shader(3) dbls(1) uid(10) col(0.651 0.173 0.341 1.000) dif(0.800) amb(0.000) emi(0.500) spc(0.025) power(0.00)
+	"cloth_p" shader(3) dbls(1) uid(10) col(0.651 0.173 0.341 0.990) dif(0.800) amb(0.000) emi(0.500) spc(0.025) power(0.00)
 	"cloth_nv" shader(3) uid(11) col(0.420 0.525 0.835 1.000) dif(0.800) amb(0.000) emi(0.500) spc(0.025) power(0.00)
 	"cloth_ps4" shader(3) dbls(1) uid(12) col(0.835 0.835 0.835 1.000) dif(0.630) amb(0.488) emi(0.260) spc(0.000) power(0.00)
 	"koushou" shader(3) uid(13) col(1.000 1.000 1.000 1.000) dif(1.000) amb(0.500) emi(0.275) spc(0.000) power(5.00) tex("koushou.png")
