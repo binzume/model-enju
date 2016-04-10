@@ -9,6 +9,8 @@
 
 ![kirin](images/wip_kirin.png)
 
+[td26187](http://3d.nicovideo.jp/works/td26187)
+
 
 ### 2015-10-14
 
