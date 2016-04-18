@@ -24,15 +24,15 @@
     <linearGradient
        id="linearGradient3759">
       <stop
-         style="stop-color:#1f182d;stop-opacity:1"
+         style="stop-color:#050111;stop-opacity:1"
          offset="0"
          id="stop3761" />
       <stop
          id="stop4142"
          offset="0.63937628"
-         style="stop-color:#8f84cc;stop-opacity:1" />
+         style="stop-color:#6b5a9b;stop-opacity:1" />
       <stop
-         style="stop-color:#b7a4da;stop-opacity:1"
+         style="stop-color:#8970cf;stop-opacity:1"
          offset="1"
          id="stop3763" />
     </linearGradient>
@@ -45,7 +45,7 @@
        x2="250.57819"
        y2="437.51401"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1579657,0,0,0.98349284,-76.201037,525.13268)" />
+       gradientTransform="matrix(1.1127386,0,0,0.94304647,-59.125735,542.81585)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -55,8 +55,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1865234"
-     inkscape:cx="-61.79233"
-     inkscape:cy="153.89444"
+     inkscape:cx="-12.488625"
+     inkscape:cy="185.07798"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -83,56 +83,56 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#343434;stroke-width:1.97784674;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#343434;stroke-width:1.93881369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4143"
-       cx="256"
+       cx="260.1004"
        cy="792.2453"
-       rx="150.02919"
-       ry="167.30656" />
+       rx="144.14912"
+       ry="167.32608" />
     <ellipse
-       style="fill:url(#linearGradient3765);fill-opacity:1;stroke:#000000;stroke-width:1.96228635;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:url(#linearGradient3765);fill-opacity:1;stroke:#000000;stroke-width:1.88361466;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path2985"
-       inkscape:transform-center-x="18.715556"
-       inkscape:transform-center-y="11.921759"
-       cx="256"
-       cy="811.60608"
-       rx="147.38496"
-       ry="142.56406" />
+       inkscape:transform-center-x="17.984569"
+       inkscape:transform-center-y="11.431482"
+       cx="260.1004"
+       cy="817.50793"
+       rx="141.62849"
+       ry="136.70107" />
     <ellipse
-       style="fill:#dcd2f2;fill-opacity:0.71844661;stroke:none"
+       style="fill:#dcd2f2;fill-opacity:0.71844662;stroke:none"
        id="path3803"
-       transform="matrix(0.98486593,-0.17331792,0.17397868,0.98474942,0,0)"
-       ry="45.290462"
-       rx="75.455063"
-       cy="938.6629"
-       cx="110.9328" />
+       transform="matrix(0.9836331,-0.18018304,0.16733574,0.98589997,0,0)"
+       ry="45.242886"
+       rx="72.588631"
+       cy="940.13287"
+       cx="120.66977" />
     <ellipse
-       style="fill:#23193a;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#0f0a1b;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2987"
-       ry="43.746277"
-       rx="27.168377"
-       cy="802.31274"
-       cx="256" />
+       ry="39.513618"
+       rx="23.575176"
+       cy="806.07611"
+       cx="259.57202" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path2987-1"
-       cx="159.86089"
-       cy="716.67175"
-       rx="42.37299"
-       ry="55.056988" />
+       cx="167.72926"
+       cy="716.66296"
+       rx="40.712273"
+       ry="55.063412" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path2987-1-7"
-       cx="202.86304"
-       cy="770.99042"
-       rx="8.3764811"
-       ry="8.2309914" />
+       cx="212.75397"
+       cy="772.78052"
+       rx="11.75611"
+       ry="12.024545" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path2987-1-7-0"
-       cx="333.73111"
-       cy="916.78394"
-       rx="13.740016"
-       ry="11.508708" />
+       cx="331.41382"
+       cy="913.85919"
+       rx="16.572699"
+       ry="14.449307" />
   </g>
 </svg>
