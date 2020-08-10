@@ -3,13 +3,16 @@
 
 2. set bone weight:
 body
-side
-sht
-skirt
-skirt-side
-kutsu
+hair
+ side
+ back
+ware
+ top
+ skirt
+ kutsu
+eyeL
 
-3. set_pmd_shader.py
+(3. set_pmd_shader.py)
 
 4. save pmd.
 
